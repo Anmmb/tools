@@ -3,7 +3,7 @@
 ## Cài Đặt Node JS
 Tải Về Từ Nodejs.org
 
-## kiểm Tra node js
+## Kiểm Tra node js
 ```node -v``` kiểm Tra Phiên Bản node js
 ```npm -v``` kiểm Tra Phiên Bản NPM (node package manager)
 
