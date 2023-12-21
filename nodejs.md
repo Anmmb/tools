@@ -1,20 +1,20 @@
-# Mot so cong cu lam viec
+# Một Số Công Cụ Làm Việc
 
-## Cai dat Node JS
-Tai ve tu Nodejs.org
+## Cài Đặt Node JS
+Tải Về Từ Nodejs.org
 
-## Kiem tra node js
-```node -v``` kiem tra phien ban node js
-```npm -v``` kiem tra phien phien ban cua NPM (node package manager)
+## kiểm Tra node js
+```node -v``` kiểm Tra Phiên Bản node js
+```npm -v``` kiểm Tra Phiên Bản NPM (node package manager)
 
 
-## Tao may chu HTTP don gian bang package: **http-server**
-Cai dat
+## Tạo Máy Chủ HTTP Đơn Giản Bằng package: **http-server**
+Cài Đặt
 ```
 npm install --global http-server
 ```
 
-Tao may chu HTTP tren thu muc
+Tạo Máy Chủ HTTP Trên Thư Mục
 - Vào Thư Mục
 - Gõ Lệnh ```http-server``` Hoặc ```http-server.cmd```
 - Mặc Định Cổng Truy Cập Là 8080

@@ -1,6 +1,6 @@
-# Cac thu thuat Windows
-## Xem cau hinh mang va dia chi IP4 cua may
+# Các Thủ Thuật Windows
+## Xem Cấu Hình Mạng va Địa Chỉ IP4 Của Máy
 ```
 ipconfig /all
 ```
-Huong dan them tai: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig
+Hướng Dẫn Thêm Tại: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig
